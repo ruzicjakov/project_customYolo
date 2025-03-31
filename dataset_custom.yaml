@@ -1,0 +1,6 @@
+train: C:\Users\38595\OneDrive\Radna površina\projekt_praktikum\train
+val: C:\Users\38595\OneDrive\Radna površina\projekt_praktikum\val
+
+nc: 3
+
+names: ["greenlight", "redlight", "yellowlight"]
